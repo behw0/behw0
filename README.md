@@ -76,7 +76,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/behw0/behw0/output/snake.svg" alt="Snake animation" />
-
-###
