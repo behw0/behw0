@@ -4,7 +4,11 @@
 
 <p align="left" style="font-size:18px;">
 Using all my extensive experience in data science, machine learning, mathematics, and economics to create and explore infinite possibilities in the fascinating world of numbers.
-</p>
+
+
+📬 Contact me via email at lumatizerh@hotmail.com</p>
+
+###
 
 
 ###
