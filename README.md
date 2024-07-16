@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">- Data Scientist & ML Engineer<br>- Data Analytics and Scientist at @folipro.tech<br>- B.Sc. Economics and Mathematics<br><br>📬 Contact me via email at lumatizerh@hotmail.com</p>
+<p align="left" style="font-size:18px;">
+Using all my extensive experience in data science, machine learning, mathematics, and economics to create and explore infinite possibilities in the fascinating world of numbers.
+</p>
+
 
 ###
 
