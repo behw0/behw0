@@ -8,6 +8,8 @@ Using all my extensive experience in data science, machine learning, mathematics
 
 📬 Contact me via email at lumatizerh@hotmail.com</p>
 
+sapere aude!
+
 ###
 
 
