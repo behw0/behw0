@@ -6,7 +6,7 @@
 Using all my extensive experience in data science, machine learning, mathematics, and economics to create and explore infinite possibilities in the fascinating world of numbers.
 
 
-📬 Contact me via email at lumatizerh@hotmail.com</p>
+📬 Contact me by email at lumatizerh@hotmail.com</p>
 
 sapere aude!
 
