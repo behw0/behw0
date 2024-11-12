@@ -3,8 +3,7 @@
 ###
 
 <p align="left" style="font-size:18px;">
-Using all my extensive experience in data science, machine learning, mathematics, and economics to create and explore infinite possibilities in the fascinating world of numbers.
-
+The economy serves as the vital pulse of society, mathematics provides the cosmic vernacular, data science offers the penetrating gaze, and artificial intelligence assumes the role of master builder of the future; in concert, they create the grand narrative of human progress.
 
 📬 Contact me by email at lumatizerh@hotmail.com</p>
 
